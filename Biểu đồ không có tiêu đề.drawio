@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T14:27:57.527Z" agent="5.0 (Windows)" etag="xgXHDhOG47H7cLpcnzAN" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T14:35:09.826Z" agent="5.0 (Windows)" etag="gcHPriAr_BLsKM9I6iee" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="914" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
             <mxPoint x="630" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Thời gian trộn&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-30" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Thời gian trộn, lượng tá dược dính, nồng độ tá dược dính&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="270" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eYAlA3jcJUsBGl3VyRQ2-31" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="eYAlA3jcJUsBGl3VyRQ2-30">
@@ -91,8 +91,8 @@
             <mxPoint x="630" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Thời gian trộn&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="360" width="170" height="60" as="geometry" />
+        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Cỡ rây xát hạt&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="669" y="360" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eYAlA3jcJUsBGl3VyRQ2-33" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="eYAlA3jcJUsBGl3VyRQ2-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -100,7 +100,7 @@
             <mxPoint x="630" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-36" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Thời gian trộn&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-36" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Nhiệt độ sấy, thời gian sấy&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="450" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eYAlA3jcJUsBGl3VyRQ2-37" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="eYAlA3jcJUsBGl3VyRQ2-36">
@@ -109,7 +109,7 @@
             <mxPoint x="630" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-38" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Thời gian trộn&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-38" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Cỡ rây sửa hạt&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="550" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eYAlA3jcJUsBGl3VyRQ2-39" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="eYAlA3jcJUsBGl3VyRQ2-38">
@@ -118,7 +118,7 @@
             <mxPoint x="630" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-40" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Thời gian trộn&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-40" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Nhiệt độ sấy, thời gian sấy&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="650" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eYAlA3jcJUsBGl3VyRQ2-41" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="eYAlA3jcJUsBGl3VyRQ2-40">
@@ -127,7 +127,7 @@
             <mxPoint x="630" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-42" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Thời gian trộn&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-42" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Thời gian trộn, tốc độ trộn&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="750" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eYAlA3jcJUsBGl3VyRQ2-43" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="eYAlA3jcJUsBGl3VyRQ2-42">
@@ -136,7 +136,7 @@
             <mxPoint x="630" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-44" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Thời gian trộn&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-44" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Tốc độ dập viên&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="850" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eYAlA3jcJUsBGl3VyRQ2-45" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="eYAlA3jcJUsBGl3VyRQ2-44">
@@ -145,7 +145,7 @@
             <mxPoint x="630" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-46" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Thời gian trộn&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eYAlA3jcJUsBGl3VyRQ2-46" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Tốc độ ép, nhiệt độ hàn, nhiệt độ tấm giá nhiệt trên và dưới&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="950" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eYAlA3jcJUsBGl3VyRQ2-47" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="eYAlA3jcJUsBGl3VyRQ2-46">
